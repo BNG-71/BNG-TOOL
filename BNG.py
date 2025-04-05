@@ -7,6 +7,6 @@ if __name__ == "__main__":
     b = platform.architecture()[0]
     app = KingProCracker()
     if b == '64bit':
-        app.__BNG_71__()
+        app.new()
     elif b == '32bit':
         print("32bit Not Supported! Sorry")
