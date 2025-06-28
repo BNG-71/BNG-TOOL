@@ -2,7 +2,7 @@ import ctypes
 import os
 
 # .so ফাইলের নাম
-so_file = "khan.so"
+so_file = "khan.cpython-312.so"
 
 # চেক করি ফাইলটা আছে কিনা
 if not os.path.isfile(so_file):
