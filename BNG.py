@@ -1,3 +1,3 @@
 import ck
 tool = ck.BNGTool()
-tool.ck.BNG_71_()
+tool = ck.BNG_71_()
