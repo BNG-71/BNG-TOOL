@@ -1,2 +1,1 @@
 # BNG-TOOL
-✨This Tool Is Free✅
